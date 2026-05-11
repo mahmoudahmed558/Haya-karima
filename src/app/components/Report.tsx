@@ -861,10 +861,9 @@ export function Footer() {
           <div>
             <div className="text-white mb-4" style={{ fontWeight: 800 }}>تواصل معنا</div>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-center gap-2">📍 وزارة التنمية المحلية</li>
-              <li className="flex items-center gap-2">✉️ info@hayatkareema.gov.eg</li>
-              <li className="flex items-center gap-2">📞 +20 100 000 0000</li>
-              <li className="flex items-center gap-2">🌐 hayatkareema.gov.eg</li>
+              <li className="flex items-center gap-2">👤 Mahmoud Ahmed</li>
+              <li className="flex items-center gap-2">✉️ <a href="mailto:mhmwdaljyzawy2@gmail.com" className="hover:text-[#6FCF97] transition">mhmwdaljyzawy2@gmail.com</a></li>
+              <li className="flex items-center gap-2">📞 <a href="tel:+2001114749242" className="hover:text-[#6FCF97] transition direction-ltr" dir="ltr">01114749242</a></li>
             </ul>
           </div>
         </div>
